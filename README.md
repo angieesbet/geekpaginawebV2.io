@@ -1,2 +1,2 @@
 # geekpaginawebV2.io
-En este repositorio se publica el segundo avance del proyecto de página web de la materia Programación Web. Proyecto creado por: Angélica Escribano Betanzos y Fernando David Villafuerte Gertrudis. Ingresa a
+En este repositorio se publica el segundo avance del proyecto de página web de la materia Programación Web. Proyecto creado por: Angélica Escribano Betanzos y Fernando David Villafuerte Gertrudis. Ingresa a https://angieesbet.github.io/geekpaginawebV2.io/
